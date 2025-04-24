@@ -71,7 +71,7 @@ streamlit run app.py
 ## 🔍 Model Details
 
 - **Algorithm**: XGBoost Classifier
-- **Training Dataset**: [German Credit Data](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
+- **Training Dataset**: [German Credit Data](https://www.kaggle.com/datasets/uciml/german-credit?resource=download)
 - **Preprocessing**:
   - Label encoding for categorical variables
   - Feature scaling with `StandardScaler`
